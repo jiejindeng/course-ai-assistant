@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+node_modules/
+dist/
+backend/storage/papers/*.pdf
+backend/storage/papers/knowledge_index.json
+backend/storage/datasets/*.csv
+backend/storage/reports/*.md

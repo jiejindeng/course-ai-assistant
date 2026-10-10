@@ -1,0 +1,1 @@
+{"name":"course-ai-assistant-frontend","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"vite --host 0.0.0.0","build":"vite build","preview":"vite preview --host 0.0.0.0"},"dependencies":{"@vitejs/plugin-vue":"latest","vite":"latest","vue":"latest","marked":"latest","dompurify":"latest","lucide-vue-next":"latest"},"devDependencies":{}}
